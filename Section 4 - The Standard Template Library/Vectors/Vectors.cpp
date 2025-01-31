@@ -1,0 +1,4 @@
+/*
+    Vectors are resizable arrays.
+    Iterators are objects which act like pointers to the elements of a vector.
+*/
