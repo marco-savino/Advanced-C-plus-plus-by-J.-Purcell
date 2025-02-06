@@ -1,0 +1,3 @@
+/*
+    Multiple maps allows same keys
+*/

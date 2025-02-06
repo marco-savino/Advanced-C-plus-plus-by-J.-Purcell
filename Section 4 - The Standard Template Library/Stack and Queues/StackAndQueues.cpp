@@ -1,0 +1,5 @@
+/*
+    Stacks work with LIFO policy
+    Queues work with FIFO policy
+
+*/
